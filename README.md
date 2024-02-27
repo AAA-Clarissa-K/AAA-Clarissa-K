@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AAA-Clarissa-K (you can call me Clarissa!)
-- 💞️ I’m interested in video games, art and design, and creations of all kinds!
+- 👋 Hi, I’m @AAA-Clarissa-K -- call me Clarissa :)
+- 💞️ I’m interested in video games, art and design, and creations generally
 - 🌱 I’m currently playing around with Unity
 
 <!---
